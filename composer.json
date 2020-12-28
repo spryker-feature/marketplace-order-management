@@ -13,7 +13,6 @@
     "spryker/merchant-oms-gui": "^0.1.0",
     "spryker/merchant-sales-order": "^0.7.0",
     "spryker/merchant-sales-order-merchant-user-gui": "^0.1.0",
-    "spryker/merchant-sales-order-threshold-gui": "^0.1.0",
     "spryker/product-offer-sales": "^0.1.0"
   },
   "extra": {
