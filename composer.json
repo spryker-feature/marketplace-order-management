@@ -1,0 +1,29 @@
+{
+  "name": "spryker-feature/marketplace-order-management",
+  "description": "Marketplace Order Management [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.3",
+    "spryker-shop/merchant-sales-order-widget": "^0.1.0",
+    "spryker/merchant-oms": "^0.3.0",
+    "spryker/merchant-oms-data-import": "^0.2.0",
+    "spryker/merchant-oms-gui": "^0.1.0",
+    "spryker/merchant-sales-order": "^0.7.0",
+    "spryker/merchant-sales-order-merchant-user-gui": "^0.1.0",
+    "spryker/merchant-sales-order-threshold-gui": "^0.1.0",
+    "spryker/product-offer-sales": "^0.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202009.x-dev"
+    }
+  },
+  "suggest": {
+    "spryker-feature/marketplace-merchant": "Recommended feature dependency.",
+    "spryker-feature/order-management": "Recommended feature dependency.",
+    "spryker-feature/shipment": "Recommended feature dependency."
+  }
+}
