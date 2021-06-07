@@ -17,5 +17,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [MerchantSalesOrderExtension ^0.1.0](https://github.com/spryker/merchant-sales-order-extension) (Extension)
-- [SalesMerchantPortalGui ^0.6.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
+- [SalesMerchantPortalGui ^0.8.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
 - [SalesMerchantPortalGuiExtension ^0.1.0](https://github.com/spryker/sales-merchant-portal-gui-extension) (Extension)
