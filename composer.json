@@ -8,6 +8,7 @@
     "require": {
         "php": ">=7.3",
         "spryker-shop/merchant-sales-order-widget": "^0.1.0",
+        "spryker/cart-note-merchant-sales-order-gui": "^0.1.0",
         "spryker/merchant-oms": "^0.4.0",
         "spryker/merchant-oms-data-import": "^0.4.0",
         "spryker/merchant-oms-gui": "^0.2.0",
