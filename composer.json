@@ -14,7 +14,6 @@
         "spryker/merchant-sales-order": "^0.8.2",
         "spryker/merchant-sales-order-data-export": "^0.1.0",
         "spryker/merchant-sales-order-merchant-user-gui": "^0.2.6",
-        "spryker/merchant-sales-order-threshold-gui": "^0.1.0",
         "spryker/oms-product-offer-reservation": "^0.1.0",
         "spryker/product-offer-reservation-gui": "^0.1.0",
         "spryker/product-offer-sales": "^0.1.0"
