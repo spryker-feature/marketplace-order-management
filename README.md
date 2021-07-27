@@ -16,8 +16,6 @@ composer require spryker-feature/marketplace-order-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [CartNoteMerchantPortalGui ^0.1.2](https://github.com/spryker/cart-note-merchant-portal-gui) (MP GUI)
-- [CartNoteMerchantSalesOrderGui ^0.1.0](https://github.com/spryker/cart-note-merchant-sales-order-gui) (Connector)
 - [MerchantSalesOrderExtension ^0.1.2](https://github.com/spryker/merchant-sales-order-extension) (Extension)
 - [ProductOfferSalesRestApi ^0.1.0](https://github.com/spryker/product-offer-sales-rest-api) (Glue)
 - [SalesMerchantPortalGui ^0.9.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
