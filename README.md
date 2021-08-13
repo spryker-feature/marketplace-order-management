@@ -19,5 +19,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [MerchantSalesOrderExtension ^0.1.2](https://github.com/spryker/merchant-sales-order-extension) (Extension)
 - [MerchantSalesOrderThresholdGui ^0.1.0](https://github.com/spryker/merchant-sales-order-threshold-gui) (Connector)
 - [ProductOfferSalesRestApi ^0.1.0](https://github.com/spryker/product-offer-sales-rest-api) (Glue)
-- [SalesMerchantPortalGui ^0.9.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
+- [SalesMerchantPortalGui ^0.11.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
 - [SalesMerchantPortalGuiExtension ^0.1.0](https://github.com/spryker/sales-merchant-portal-gui-extension) (Extension)
