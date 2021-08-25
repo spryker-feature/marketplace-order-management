@@ -10,7 +10,6 @@ composer require spryker-feature/marketplace-order-management
 
 ## Recommended feature dependencies
 - [spryker-feature/marketplace-merchant](https://github.com/spryker-feature/marketplace-merchant)
-- [spryker-feature/marketplace-shipment](https://github.com/spryker-feature/marketplace-shipment)
 - [spryker-feature/order-management](https://github.com/spryker-feature/order-management)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
