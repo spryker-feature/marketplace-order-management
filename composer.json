@@ -29,7 +29,6 @@
     },
     "suggest": {
         "spryker-feature/marketplace-merchant": "Recommended feature dependency.",
-        "spryker-feature/marketplace-shipment": "Recommended feature dependency.",
         "spryker-feature/order-management": "Recommended feature dependency."
     }
 }
