@@ -15,11 +15,11 @@
         "spryker/merchant-sales-order": "^1.0.0",
         "spryker/merchant-sales-order-data-export": "^0.2.0",
         "spryker/merchant-sales-order-merchant-user-gui": "^1.0.0",
-        "spryker/oms": "^11.14.0",
+        "spryker/oms": "^11.15.0",
         "spryker/oms-product-offer-reservation": "^1.0.0",
         "spryker/product-offer-reservation-gui": "^1.0.0",
         "spryker/product-offer-sales": "^1.0.0",
-        "spryker/sales": "^11.17.0",
+        "spryker/sales": "^11.27.0",
         "spryker/sales-oms": "^0.1.0"
     },
     "extra": {
