@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/merchant-sales-order-widget": "^1.0.0",
         "spryker-shop/order-cancel-widget": "^1.0.0",
         "spryker/merchant-oms": "^1.0.0",
@@ -15,7 +15,7 @@
         "spryker/merchant-sales-order": "^1.0.0",
         "spryker/merchant-sales-order-data-export": "^0.2.0",
         "spryker/merchant-sales-order-merchant-user-gui": "^1.0.0",
-        "spryker/oms": "^11.15.0",
+        "spryker/oms": "^11.17.0",
         "spryker/oms-product-offer-reservation": "^1.0.0",
         "spryker/product-offer-reservation-gui": "^1.0.0",
         "spryker/product-offer-sales": "^1.0.0",
@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     },
     "suggest": {
