@@ -19,7 +19,7 @@
         "spryker/oms-product-offer-reservation": "^1.0.0",
         "spryker/product-offer-reservation-gui": "^1.1.0",
         "spryker/product-offer-sales": "^1.0.0",
-        "spryker/sales": "^11.27.0",
+        "spryker/sales": "^11.29.0",
         "spryker/sales-oms": "^0.1.0"
     },
     "extra": {
