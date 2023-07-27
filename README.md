@@ -2,6 +2,8 @@
 
 With the Marketplace Order Management, default orders that contain additional information about the merchants are called Marketplace orders. In turn, every merchant can view and manage only the orders that are related to their items. Such orders are called merchant orders.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/order-management-system/202307.0/marketplace/marketplace-order-management-feature-overview/marketplace-order-management-feature-overview.html)
+
 ## Installation
 
 ```
