@@ -17,8 +17,8 @@ composer require spryker-feature/marketplace-order-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantSalesOrderExtension ^1.0.0](https://github.com/spryker/merchant-sales-order-extension) (Extension)
+- [MerchantSalesOrderExtension ^1.1.0](https://github.com/spryker/merchant-sales-order-extension) (Extension)
 - [MerchantSalesOrderThresholdGui ^1.0.0](https://github.com/spryker/merchant-sales-order-threshold-gui) (Connector)
 - [ProductOfferSalesRestApi ^1.0.0](https://github.com/spryker/product-offer-sales-rest-api) (Legacy Glue)
-- [SalesMerchantPortalGui ^3.0.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
+- [SalesMerchantPortalGui ^3.1.0](https://github.com/spryker/sales-merchant-portal-gui) (MP GUI)
 - [SalesMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/sales-merchant-portal-gui-extension) (Extension)
