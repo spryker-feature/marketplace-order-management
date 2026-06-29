@@ -19,12 +19,12 @@
         "spryker/oms-product-offer-reservation": "^1.2.0",
         "spryker/product-offer-reservation-gui": "^1.1.0",
         "spryker/product-offer-sales": "^1.1.0",
-        "spryker/sales": "^11.82.0",
+        "spryker/sales": "^11.83.0",
         "spryker/sales-oms": "^0.1.4"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     },
     "suggest": {
