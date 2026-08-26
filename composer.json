@@ -8,15 +8,15 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/merchant-sales-order-widget": "^1.0.0",
-        "spryker-shop/order-cancel-widget": "^1.1.0",
-        "spryker/merchant-oms": "^1.0.0",
+        "spryker-shop/order-cancel-widget": "^1.2.0",
+        "spryker/merchant-oms": "^1.1.0",
         "spryker/merchant-oms-data-import": "^0.5.0",
-        "spryker/merchant-oms-gui": "^1.1.0",
+        "spryker/merchant-oms-gui": "^1.2.0",
         "spryker/merchant-sales-order": "^1.8.0",
         "spryker/merchant-sales-order-data-export": "^0.2.0",
         "spryker/merchant-sales-order-merchant-user-gui": "^2.2.0",
-        "spryker/oms": "^11.53.0",
-        "spryker/oms-product-offer-reservation": "^1.2.0",
+        "spryker/oms": "^11.54.0",
+        "spryker/oms-product-offer-reservation": "^1.3.0",
         "spryker/product-offer-reservation-gui": "^1.1.0",
         "spryker/product-offer-sales": "^1.1.0",
         "spryker/sales": "^11.83.0",
@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
